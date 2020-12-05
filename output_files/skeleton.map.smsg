@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at vga_controller.v(71): always construct contains both blocking and non-blocking assignments File: C:/Users/wling/Documents/ECE550_final/rection6_begin/vga_controller.v Line: 71
